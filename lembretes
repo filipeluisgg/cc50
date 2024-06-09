@@ -1,0 +1,16 @@
+##FORMATAÇÃO
+
+%d: especificador de formato para inteiros
+%f: especificador de formato para números de ponto flutuante
+%c: especificador de formato para caracteres
+%s: especificador de formato para strings
+
+%.2d: colocar duas casas decimais depois do ponto.
+
+argc (argument count): Um inteiro que representa o número de argumentos passados para o programa a partir da linha de comando.
+argv (argument vector): Array de strings que contém os argumentos individuais passados para o programa. Cada elemento do array (argv[0], argv[1], etc.) é uma string que representa um argumento.
+
+Em sistemas, há uma balança entre: Tempo e Memória...
+Logaritmo: dividir para conquistar.
+
+Na hora de declarar função e variável, o ' * ' significa que vai esperar um endereço. Sem ser na declaração, significa para devolver o que está no lugar da memória.

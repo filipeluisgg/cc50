@@ -1,0 +1,8 @@
+Temas da Aula: 
+
+Busca linear;
+Busca binária;
+Notação assintótica;
+Recursão;
+Ordenações: Bubble sort, Selection sort, Insertion sort, Merge sort;
+Debugar.

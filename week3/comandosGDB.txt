@@ -1,0 +1,7 @@
+run       - roda o programa.
+next      - próxima linha.
+continue  - roda o programa até o final. 'Continue 99' ignoraria as próxima 99 situações de um break. Interessante em loops.
+print x   - mostra o valor de 'x'.
+list      - mostra o que já foi rodado de código até a linha em que o debuger se encontra.
+break arg - o debuger vai rodar o código apenas até o 'arg' que pode ser um número de linha do código ou o nome de uma função.
+step      - entrar dentro da função
